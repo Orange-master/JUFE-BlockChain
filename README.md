@@ -1,15 +1,13 @@
 # JUFE-BlockChain
-一个区块链学习平台
+一个区块链学习平台(仿照THUBA）
 ## 白皮书
 
 ### 国内区块链项目
-+ 京东区块链
-+ 华为区块链
-+ 微众银行区块链WeCross跨链技术
-+ 百度区块链
-+ 腾讯区块链
-+ 趣链hyperchain
-
++ [京东区块链](https://github.com/Orange-master/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6/%E5%9B%BD%E5%86%85%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE/%E4%BA%AC%E4%B8%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
++ [华为区块链](https://github.com/Orange-master/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6/%E5%9B%BD%E5%86%85%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE/%E5%8D%8E%E4%B8%BA%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
++ [微众银行区块链WeCross跨链技术](https://github.com/Orange-master/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6/%E5%9B%BD%E5%86%85%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C%E5%8C%BA%E5%9D%97%E9%93%BEWeCross%E8%B7%A8%E9%93%BE%E6%8A%80%E6%9C%AF%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
++ [百度区块链](https://github.com/Orange-master/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6/%E5%9B%BD%E5%86%85%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE/%E7%99%BE%E5%BA%A6%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
++ [腾讯区块链](https://github.com/Orange-master/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6/%E5%9B%BD%E5%86%85%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A1%B9%E7%9B%AE/%E8%85%BE%E8%AE%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A62019.pdf)
 ### 国外区块链项目
 
 |     项目名      |                           白皮书                           |
@@ -30,35 +28,6 @@
 |     Dfinity     |         [dfinity-consensus.pdf](区块链白皮书/国外区块链项目/dfinity-consensus.pdf)   
 |     Nervos      |    [Nervos](https://docs.ckb.dev/docs/rfcs/0001-positioning/0001-positioning.zh)|
 
-### 行业研究报告
-
-+ 中国区块链产业白皮书
-+ “物联网+区块链”应用与发展白皮书
-+ 中国区块链技术和应用发展白皮书
-+ 中国区块链金融应用与发展研究报告
-+ 主流区块链共识机制的简介与比较
-+ 区块链P2P网络协议演进过程
-+ 区块链+边缘计算技术白皮书
-+ 区块链中的智能合约
-+ 区块链互操作白皮书
-+ 区块链保险应用白皮书
-+ 区块链共识机制研究综述
-+ 区块链即服务平台BaaS白皮书
-+ 区块链对交通业的颠覆
-+ 区块链技术应用白皮书
-+ 区块链数字版权应用白皮书
-+ 区块链服务网络基础白皮书
-+ 中国信通院区块链
-+ 区块链系统中的分布式数据管理技术-挑战与展望
-+ 区块链金融应用发展 白皮书
-+ 区块链领导干部读本
-+ 四川省区块链产业白皮书
-+ 智能合约-架构及进展
-+ 智能合约中的安全与隐私保护技术
-+ 能源石化交易行业区块链应用白皮书
-+ 跨境贸易区块链白皮书
-+ 境内区块链信息服务备案清单
-
 ## 课程
 
 ###  B站UP推荐
@@ -73,8 +42,19 @@
 |     Bankless     |                       [Bankless](https://www.youtube.com/c/Bankless)              |
 
 ### 科普类视频
++ [纪录片：区块链之新](https://www.bilibili.com/bangumi/play/ep290332?from=search&seid=11173718821302331109&spm_id_from=333.337.0.0)
++ [MIT区块链公开课](https://www.bilibili.com/video/BV1PV411v7H9?from=search&seid=4677993477882294663&spm_id_from=333.337.0.0)
 
 ### 技术类课程
++ [基于以太坊的智能合约开发教程【Solidity】](https://www.bilibili.com/video/BV1St411a7Pk?from=search&seid=1406893026007503160&spm_id_from=333.337.0.0)
++ [以太坊Dapp开发教程](https://www.bilibili.com/video/BV14z4y1Z7Jd?from=search&seid=17937756857223111614&spm_id_from=333.337.0.0)
++ [ MIT分布式系统](https://www.bilibili.com/video/BV1R7411t71W?from=search&seid=2538219443480294610&spm_id_from=333.337.0.0)
+
+## 加密社区
++ [登链Learnblockchain](https://learnblockchain.cn/)
++ [Messari](https://messari.io/)
++ [Nervos论坛](https://talk.nervos.org/)
+
 
 ## 论文
 
