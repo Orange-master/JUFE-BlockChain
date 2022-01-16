@@ -59,73 +59,68 @@
 ## 论文
 
 ### Applications
-+ BigchainDB: 可拓展的区块链数据库
-+ 使用全球交易分类账的公平和稳健的多方计算
-+ Commitcoin:比特币的碳定年承诺
-+ Storj点对点云存储网络
-+ IPFS - 内容寻址，版本控制，P2P文件系统
++ [BigchainDB: 可拓展的区块链数据库](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Applications/BigchainDB:%20A%20Scalable%20Blockchain%20Database.pdf)
++ [使用全球交易分类账的公平和稳健的多方计算](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Applications/Fair%20and%20Robust%20Multi-Party%20Computation%20using%20a%20Global%20Transaction%20Ledger.pdf)
++ [Storj点对点云存储网络](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Applications/Storj%20A%20Peer-to-Peer%20Cloud%20Storage%20Network.pdf)
++ [IPFS - 内容寻址，版本控制，P2P文件系统](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Applications/IPFS%20-%20Content%20Addressed%2C%20Versioned%2C%20P2P%20File%20System.pdf)
 ### Attacks
-+ 比特币中最优自私挖掘策略
-+ 敌对的区块链收购
-+ 退还对比特币支付协议的攻击
-+ 对以太坊点对点网络的低资源Eclipse攻击
++ [比特币中最优自私挖掘策略](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Attacks/Optimal%20Selfish%20Mining%20Strategies%20in%20Bitcoin.pdf)
++ [敌对的区块链收购](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Attacks/Hostile%20blockchain%20takeovers.pdf)
++ [退还对比特币支付协议的攻击](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Attacks/Refund%20attacks%20on%20Bitcoin%E2%80%99s%20Payment%20Protocol.pdf)
++ [对以太坊点对点网络的低资源Eclipse攻击](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Attacks/Low-Resource%20Eclipse%20Attacks%20on%20Ethereum%E2%80%99s%20Peer-to-Peer%20Network.pdf)
 ### Block generation and mining
-+ 包容性区块链协议
-+ 论工作证明区块链的安全性与性能
-+ 比特币的安全高速率交易处理
-+ Smartpool:实用的分散池采矿
++ [包容性区块链协议](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Block%20generation%20and%20mining/Inclusive%20Block%20Chain%20Protocols.pdf)
++ [论工作证明区块链的安全性与性能](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Block%20generation%20and%20mining/On%20the%20Security%20and%20Performance%20of%20Proof%20of%20Work%20Blockchains.pdf)
++ [比特币的安全高速率交易处理](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Block%20generation%20and%20mining/Secure%20High-Rate%20Transaction%20Processing%20in%20Bitcoin.pdf)
++ [Smartpool:实用的分散池采矿](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Block%20generation%20and%20mining/Smartpool:%20Practical%20decentralized%20pooled%20mining.pdf)
 ### Classic Consensus
-+ 一致在部分同步的存在
-+ 兼职议会
-+ 实用的拜占庭式容错
-+ Paxos变得简单
-+ 拜占庭将军问题
++ [一致在部分同步的存在](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Classic%20Consensus/Consensus%20in%20the%20Presence%20of%20Partial%20Synchrony.pdf)
++ [兼职议会](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Classic%20Consensus/The%20part-time%20parliament.pdf)
++ [实用的拜占庭式容错](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Classic%20Consensus/Practical%20Byzantine%20Fault%20Tolerance.pdf)
++ [Paxos变得简单](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Classic%20Consensus/Paxos%20Made%20Simple.pdf)
++ [拜占庭将军问题](https://github.com/THUBA-Labs/Research/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%BA%E6%96%87/Classic%20Consensus/The%20Byzantine%20Generals%20Problem.pdf)
 ### Consensus
-+异步网络中区块链协议分析
-+具有可变难度链的比特币骨干协议
-+在树，链和区块链的快速交易
-+来自中等难度谜题的匿名拜占庭共识:比特币模型
-+比特币骨干协议:分析和应用
++[异步网络中区块链协议分析]
++[具有可变难度链的比特币骨干协议]
++[在树，链和区块链的快速交易]
++[来自中等难度谜题的匿名拜占庭共识:比特币模型]
++[比特币骨干协议:分析和应用]
 ### Crime
-+ 僵尸币:用比特币驱动下一代僵尸网络
-+ 比特币人才流失:一篇关于比特币人才钱包的使用和滥用的短文
++ [比特币人才流失:一篇关于比特币人才钱包的使用和滥用的短文]
 ### Cryptography
-+ 基于工作证明的分布式密码术
-+ 关于比特币作为一个公共随机性来源
-+ 可伸缩、透明和后量子安全计算完整性
-+ 比特币作为交易分类账:一个可组合的处理
++ [基于工作证明的分布式密码术]
++ [关于比特币作为一个公共随机性来源]
++ [可伸缩、透明和后量子安全计算完整性]
++ [比特币作为交易分类账:一个可组合的处理]
 ### DAG-based consensus
-+ Byteball：用于存储和转移价值的去中心化系统
-+ 可扩展的 BlockDAG 协议
-+ 将 Nakamoto 共识扩展到每秒数千笔交易
-+ SPECTRE：一种快速且可扩展的加密货币协议
-+ 无区块链加密货币：真正去中心化快速交易的框架
++ [Byteball：用于存储和转移价值的去中心化系统]
++ [可扩展的 BlockDAG 协议]
++ [将 Nakamoto 共识扩展到每秒数千笔交易]
++ [SPECTRE：一种快速且可扩展的加密货币协议]
++ [无区块链加密货币：真正去中心化快速交易的框架]
 ### Economics
-+ 当加密货币挖掘自己的业务时
-+ 如何使用比特币设计公平协议
-+ 针对比特币矿池的 DDoS 攻击的博弈论分析
-+ 比特币挖矿的经济学或在对手面前的比特币
-+ 智能合约使比特币矿池易受攻击
-+ 没有仲裁者的去中心化预测市场
-+ 混合不同质量的硬币：一种博弈论方法
-+ 关于没有区块奖励的比特币的不稳定性
-+ 当比特币矿池干涸时矿池之间攻击的长期影响的博弈论分析
-+ 趋势、提示、收费：比特币交易费用的纵向研究
-+ 通过鲸鱼交易激励区块链分叉
-+ 为什么要在可以租的时候购买？ 对比特币式共识的贿赂攻击
-+ 比特币矿池奖励功能的激励兼容性
++ [如何使用比特币设计公平协议]
++ [针对比特币矿池的 DDoS 攻击的博弈论分析]
++ [比特币挖矿的经济学或在对手面前的比特币]
++ [智能合约使比特币矿池易受攻击]
++ [没有仲裁者的去中心化预测市场]
++ [混合不同质量的硬币：一种博弈论方法]
++ [关于没有区块奖励的比特币的不稳定性]
++ [当比特币矿池干涸时矿池之间攻击的长期影响的博弈论分析]
++ [趋势、提示、收费：比特币交易费用的纵向研究]
++ [通过鲸鱼交易激励区块链分叉]
++ [为什么要在可以租的时候购买？ 对比特币式共识的贿赂攻击]
++ [比特币矿池奖励功能的激励兼容性]
 ### General
-+ SoK：比特币和加密货币的研究前景和挑战
-+ 基于区块链的应用的系统文献回顾：现状、分类和未解决的问题
-+ 比特币：点对点电子现金系统
++ [SoK：比特币和加密货币的研究前景和挑战]
++ [基于区块链的应用的系统文献回顾：现状、分类和未解决的问题]
 ### Marketplaces and Trust
-+ 衡量在线匿名市场生态系统的纵向演变
-+ 没有免费的午餐，即使使用比特币：追踪虚拟货币诈骗的流行度和利润
-+ 加密货币托管协议：如何使用比特币购买实物商品
-+ 与基于比特币的交易评级系统相关的挑战和机遇
-+ 信任就是风险：去中心化的金融信任平台
-+ 金钱作为社会信任网络中的借条
-+ Ripple 协议共识算法
++ [衡量在线匿名市场生态系统的纵向演变]
++ [加密货币托管协议：如何使用比特币购买实物商品]
++ [与基于比特币的交易评级系统相关的挑战和机遇]
++ [信任就是风险：去中心化的金融信任平台]
++ [金钱作为社会信任网络中的借条]
++ [Ripple 协议共识算法]
 ### Network
 + 比特币生态系统中拒绝服务攻击的实证分析
 + 比特币网络中的信息传播
@@ -133,11 +128,9 @@
 + 强调：比特币“压力测试”
 + BFT 协议的蜜獾
 ### Payment Networks
-+ Perun：加密货币上的虚拟支付中心
 + SoK：加密货币第 2 层可扩展性相关协议的分类
 + 用闪电到达地面
 + 支付渠道网络的并发性和隐私性
-+ Teechan：使用可信执行环境的支付渠道
 + 硝基协议
 + 关于闪电网络通道平衡的隐藏难度
 + 比萨：国家渠道的仲裁外包
@@ -198,13 +191,11 @@
 + 通过比特币存款进行公平的两方计算
 + 下一代智能合约和去中心化应用平台
 + 比特币上的恒定存款多方彩票
-+ EthIKS：使用以太坊审核 CONIKS 密钥透明度日志
 + Gyges 之环：调查犯罪智能合约的未来
 + 逐步创建安全的智能合约：加密货币实验室的经验教训和见解
 + 以太坊：一个安全的去中心化通用交易账本
 ### Stake
 + 用于就比特币子链达成共识的权益证明协议
-+ 白雪公主：可证明安全的权益证明
 + 没有工作证明的加密货币
 + Ouroboros Genesis：具有动态可用性的可组合权益证明区块链
 + Ouroboros Praos：一种自适应安全、半同步的权益证明协议
