@@ -41,6 +41,16 @@
 |    北美韭菜日记     |           [北美韭菜日记](https://www.youtube.com/channel/UC8M4N8ExIxASPPMvmtab7KQ) |
 |     Bankless     |                       [Bankless](https://www.youtube.com/c/Bankless)              |
 
+### 大V推荐
+
++ [廖雪峰/知乎](https://www.zhihu.com/people/liaoxuefeng)
++ [律动BlockBeats/知乎](https://www.zhihu.com/people/qu-kuai-lu-dong-blockbeats)
++ [maxdeath/知乎](https://www.zhihu.com/people/maxdeath)
++ [巴比特/知乎](https://www.zhihu.com/org/ba-bi-te-97)
++ [算法猫/知乎](https://www.zhihu.com/people/tansuomao)
++ [Vitalik/Twitter](https://twitter.com/VitalikButerin)
++ [Nick Szabo/Twitter](https://twitter.com/NickSzabo4)
+
 ### 科普类视频
 + [纪录片：区块链之新](https://www.bilibili.com/bangumi/play/ep290332?from=search&seid=11173718821302331109&spm_id_from=333.337.0.0)
 + [MIT区块链公开课](https://www.bilibili.com/video/BV1PV411v7H9?from=search&seid=4677993477882294663&spm_id_from=333.337.0.0)
