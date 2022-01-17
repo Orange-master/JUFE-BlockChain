@@ -51,6 +51,10 @@
 + [Vitalik/Twitter](https://twitter.com/VitalikButerin)
 + [Nick Szabo/Twitter](https://twitter.com/NickSzabo4)
 
+### 学习平台
+ + [CrytoZombies](https://cryptozombies.io/zh/)
+ + [FISCO BCOS ](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/#)
+
 ### 科普类视频
 + [纪录片：区块链之新](https://www.bilibili.com/bangumi/play/ep290332?from=search&seid=11173718821302331109&spm_id_from=333.337.0.0)
 + [MIT区块链公开课](https://www.bilibili.com/video/BV1PV411v7H9?from=search&seid=4677993477882294663&spm_id_from=333.337.0.0)
