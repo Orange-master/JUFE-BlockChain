@@ -63,6 +63,7 @@
 + [基于以太坊的智能合约开发教程【Solidity】](https://www.bilibili.com/video/BV1St411a7Pk?from=search&seid=1406893026007503160&spm_id_from=333.337.0.0)
 + [以太坊Dapp开发教程](https://www.bilibili.com/video/BV14z4y1Z7Jd?from=search&seid=17937756857223111614&spm_id_from=333.337.0.0)
 + [ MIT分布式系统](https://www.bilibili.com/video/BV1R7411t71W?from=search&seid=2538219443480294610&spm_id_from=333.337.0.0)
++ [Rust编程语言入门教程（Rust语言/Rustlang）](https://www.bilibili.com/video/BV1hp4y1k7SV?from=search&seid=15223323342428009701&spm_id_from=333.337.0.0)
 
 ## 加密社区
 + [登链Learnblockchain](https://learnblockchain.cn/)
