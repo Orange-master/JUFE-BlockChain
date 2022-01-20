@@ -12,7 +12,7 @@
 
 |     项目名      |                           白皮书                           |
 | :-------------: | :--------------------------------------------------------: |
-| 比特币 Bitcoin  |     [bitcoin.pdf](区块链白皮书/国外区块链项目/bitcoin.pdf)     |
+| 比特币 Bitcoin  |     [bitcoin.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)     |
 | 以太坊 Ethereum |                  [Ethereum_white_paper.pdf](区块链白皮书/国外区块链项目/Ethereum_white_paper.pdf) |
 |       EOS       |           [EOSIO](https://github.com/EOSIO/Documentation)  |
 |     Conflux     |         [conflux.pdf](区块链白皮书/国外区块链项目/conflux.pdf) |
@@ -70,6 +70,37 @@
 + [Messari](https://messari.io/)
 + [Nervos论坛](https://talk.nervos.org/)
 + [Dapplearning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
+
+## 入门区块链
+
+### 比特币
++ [比特币白皮书](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
++ [比特币简介课程](https://www.bilibili.com/video/BV1nq4y1V7Hu?spm_id_from=333.999.0.0)
++ [比特币为什么采用工作量证明（POW）来产生区块？](https://www.zhihu.com/question/270816659/answer/356943341)
++ [共识机制（一）拜占庭容错系统](https://zhuanlan.zhihu.com/p/34873703)
++ [区块链默克尔树](https://zhuanlan.zhihu.com/p/34773118)
++ [什么是UTXO](https://zhuanlan.zhihu.com/p/74050135)
++ [什么是状态通道](https://www.jianshu.com/p/02f8b72f1b59)
++ [什么是比特币的闪电网络](https://www.zhihu.com/question/46515457)
+
+### 以太坊
++ [以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
++ [以太坊简介课程](https://www.bilibili.com/video/BV1F34y1Z7JG?spm_id_from=333.999.0.0)
++ [智能合约概述](https://solidity-cn.readthedocs.io/zh/develop/introduction-to-smart-contracts.html)
++ [什么是侧链](https://zhuanlan.zhihu.com/p/44404595)
++ [Plasma](https://zhuanlan.zhihu.com/p/50770517)
++ [Layer2](https://zhuanlan.zhihu.com/p/342753841)
++ [rollup](https://www.bilibili.com/video/BV1J64y1U7bC?spm_id_from=333.999.0.0)
++ [手续费提案 EIP-1559](https://www.bilibili.com/video/BV1Vp4y1v7G4?spm_id_from=333.999.0.0)
++ [什么是零知识证明](https://zhuanlan.zhihu.com/p/144847471)
+
+### Defi
++ [什么是defi](https://www.zhihu.com/question/324838085)
++ [稳定币](https://zhuanlan.zhihu.com/p/349472569)
++ [去中心化交易所DEX/以Uniswap为例](https://www.bilibili.com/video/BV17T4y1K77u?from=search&seid=1163760362567797258&spm_id_from=333.337.0.0)
++ [去中心化借贷/Compound为例](https://zhuanlan.zhihu.com/p/114319666)
++ [什么是预言机/ChainLink为例](https://www.bilibili.com/video/BV1KZ4y1N7kZ?spm_id_from=333.999.0.0)
+
 
 ## 论文
 
