@@ -30,19 +30,15 @@
 
 ## 课程
 
-###  B站UP推荐
-
-|     UP          |                  空间                        |
-| :-------------: | :--------------------------------------------------------: |
-| rebase  |     [rebase](https://space.bilibili.com/382886213/?spm_id_from=333.999.0.0)|
-| 加密视界 |     [加密视界](https://space.bilibili.com/598991/?spm_id_from=333.999.0.0)            |
-|       THUBA       |           [THUBA](https://space.bilibili.com/489099832/?spm_id_from=333.999.0.0)  |
-|     CryptoTechNight     |         [ CryptoTechNight](https://space.bilibili.com/1560365248/?spm_id_from=333.999.0.0) |
-|    北美韭菜日记     |           [北美韭菜日记](https://www.youtube.com/channel/UC8M4N8ExIxASPPMvmtab7KQ) |
-|     Bankless     |                       [Bankless](https://www.youtube.com/c/Bankless)              |
-
+###  UP推荐
++ [rebase](https://space.bilibili.com/382886213/?spm_id_from=333.999.0.0)
++ [加密视界](https://space.bilibili.com/598991/?spm_id_from=333.999.0.0)            
++ [THUBA](https://space.bilibili.com/489099832/?spm_id_from=333.999.0.0)  
++ [ CryptoTechNight](https://space.bilibili.com/1560365248/?spm_id_from=333.999.0.0) 
++ [北美韭菜日记](https://www.youtube.com/channel/UC8M4N8ExIxASPPMvmtab7KQ) 
++ [Bankless](https://www.youtube.com/c/Bankless)  
+                                
 ### 大V推荐
-
 + [廖雪峰/知乎](https://www.zhihu.com/people/liaoxuefeng)
 + [律动BlockBeats/知乎](https://www.zhihu.com/people/qu-kuai-lu-dong-blockbeats)
 + [maxdeath/知乎](https://www.zhihu.com/people/maxdeath)
@@ -100,7 +96,6 @@
 + [去中心化交易所DEX/以Uniswap为例](https://www.bilibili.com/video/BV17T4y1K77u?from=search&seid=1163760362567797258&spm_id_from=333.337.0.0)
 + [去中心化借贷/Compound为例](https://zhuanlan.zhihu.com/p/114319666)
 + [什么是预言机/ChainLink为例](https://www.bilibili.com/video/BV1KZ4y1N7kZ?spm_id_from=333.999.0.0)
-
 
 ## 论文
 
