@@ -20,11 +20,11 @@
 |     Cardano     |                       [Cardano文件夹](区块链白皮书/国外区块链项目/Cardano)              |
 |       NEO       |                 [NEO.pdf](区块链白皮书/国外区块链项目/NEO.pdf)|
 |      Nano       |           [Nano.pdf](区块链白皮书/国外区块链项目/Nano.pdf)     |
-|     Stellar     |          [stellar.pdf](区块链白皮书/国外区块链项目/stellar.pdf)|
+|     Solana     |          [Solana.pdf](https://solana.com/solana-whitepaper.pdf)|
 |      TRON       |          [TRON.pdf](区块链白皮书/国外区块链项目/TRON.pdf)      |
 |    Dogecoin     | [dogecoin](https://github.com/dogecoin/dogecoin/blob/master/README.md) |
 |     Cosmos      | [cosmos](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md) |
-|      IOTA       |          [iota.pdf](区块链白皮书/国外区块链项目/iota.pdf)     |
+|      Near     |          [NEAR.pdf](https://near.org/papers/the-official-near-white-paper/)     |
 |     Dfinity     |         [dfinity-consensus.pdf](区块链白皮书/国外区块链项目/dfinity-consensus.pdf)   
 |     Nervos      |    [Nervos](https://docs.ckb.dev/docs/rfcs/0001-positioning/0001-positioning.zh)|
 
@@ -96,6 +96,10 @@
 + [去中心化交易所DEX/以Uniswap为例](https://www.bilibili.com/video/BV17T4y1K77u?from=search&seid=1163760362567797258&spm_id_from=333.337.0.0)
 + [去中心化借贷/Compound为例](https://zhuanlan.zhihu.com/p/114319666)
 + [什么是预言机/ChainLink为例](https://www.bilibili.com/video/BV1KZ4y1N7kZ?spm_id_from=333.999.0.0)
+
+### NFT
++ [什么是NFT](https://zhuanlan.zhihu.com/p/260661617)
++ 
 
 ## 论文
 
