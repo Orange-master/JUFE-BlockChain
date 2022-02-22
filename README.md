@@ -99,7 +99,8 @@
 
 ### NFT
 + [什么是NFT](https://zhuanlan.zhihu.com/p/260661617)
-+ 
++ [OpenSea 以太坊上最大的nft交易平台](https://opensea.io/)
++ [Compass nft链上数据分析平台](https://compass.art/)
 
 ## 论文
 
